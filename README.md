@@ -1,6 +1,12 @@
 # Python Template Repository
 [![Holloway's Template](resources/logos/logo-1200x630.svg)](https://github.com/hollowaykeanho/Template)
 
+> [!IMPORTANT]
+> **DEPRECATION NOTICE**:
+>
+> 1. This template had been upstreamed to the main template repo located here:
+>    https://github.com/ChewKeanHo/Template. Please use that instead.
+
 A template for all (Holloway) Chew, Kean Ho's new Python-based project
 repository. It setups and includes all necessary and easy-to-modify artworks,
 `README.md`, `LICENSE`, and `.gitignore` files that are crucial for a git
