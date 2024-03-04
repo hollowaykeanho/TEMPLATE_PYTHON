@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **DEPRECATION NOTICE**:
 >
-> 1. This template had been upstreamed to the main template repo located here:
->    https://github.com/ChewKeanHo/Template. Please use that instead.
+> 1. This template had superseded by AutomataCI:
+>    https://github.com/ChewKeanHo/AutomataCI/. Please use that instead.
 
 A template for all (Holloway) Chew, Kean Ho's new Python-based project
 repository. It setups and includes all necessary and easy-to-modify artworks,
